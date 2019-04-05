@@ -1,6 +1,9 @@
 Hello World!
 First change on master
 Branch off from here
+Continuing up master
 Branch line first stop
+Master next stop
 Private branch first stop
+Another stop on Master
 Feature complete on Private Branch
