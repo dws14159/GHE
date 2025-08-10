@@ -7,4 +7,4 @@ Master next stop
 Private branch first stop
 Another stop on Master
 Feature complete on Private Branch
-Rebase test: int x=5;
+Rebase test: int x=6;
